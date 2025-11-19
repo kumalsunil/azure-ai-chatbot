@@ -1,1 +1,9 @@
 How to create your own AI chatbot
+# 🤖 Enterprise AI Chatbot with Azure RAG
+
+**Watch the full tutorial video below:**
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/rWD_nqDT7rY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Project Architecture
+... (The rest of your guide)
