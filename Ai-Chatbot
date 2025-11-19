@@ -1,5 +1,15 @@
 # 🤖 Building an AI Chatbot with Azure RAG
 
+**Watch the full tutorial video below:**
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rWD_nqDT7rY">
+    <img src="https://img.youtube.com/vi/rWD_nqDT7rY/hqdefault.jpg" alt="Click to watch the Azure AI Chatbot Tutorial" width="700">
+  </a>
+</p>
+
+---
+
 ## 🛠️ Resources and Prerequisites
 
 This guide outlines how to build an enterprise-style **Retrieval-Augmented Generation (RAG)** chatbot using the following tools and services:
@@ -20,11 +30,3 @@ This project uses the **RAG pattern**, grounding the AI model in your custom bus
 3.  **Logic:** **Orchestration Layer** - A simple API to manage the retrieval of documents and prompt construction.
 
 ---
-
-**Watch the full tutorial video here:**
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=rWD_nqDT7rY">
-    <img src="https://img.youtube.com/vi/rWD_nqDT7rY/hqdefault.jpg" alt="Click to watch the Azure AI Chatbot Tutorial" width="700">
-  </a>
-</p>
